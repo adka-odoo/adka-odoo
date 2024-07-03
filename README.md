@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aditya.kakad.wp@gmail.com**
 
-- 📄 Know about my experiences [https://www.dummy.com](https://www.dummy.com)
+- 📄 Know about my experiences [#](https://www.dummy.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
